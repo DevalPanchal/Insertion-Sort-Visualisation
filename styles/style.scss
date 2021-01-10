@@ -1,0 +1,56 @@
+html {
+    height: 100%;
+}
+
+.container {
+    background-color: #394857;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 90%;
+    min-width: 90%;
+    font-family: Trebuchet;
+    color: white;
+}
+
+.button-container {
+    position: absolute;
+    bottom: 10px;
+}
+
+svg {
+    background-color: white;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.9);
+    border-radius: 6px;
+    padding: 10px;
+}
+
+text {
+    text-align: center;
+    text-anchor: middle;
+    font-size: 15px;
+}
+
+button {
+    color: whitesmoke;
+
+    border: 2px solid whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    background-color: #1b242f;
+    border-radius: 5px;
+    padding: 5px 10px;
+    transition: 0.5s;
+}
+
+button:hover {
+    cursor: pointer;
+    color: #000000;
+    background-color: #1b242f;;
+}
+
+.testing {
+    fill: red;
+}
+
