@@ -1,7 +1,7 @@
 # Insertion Sort Algorithm Visualisation
 This project is a visual representation of how the insertion sort algorithm works behind the scenes. This project each step of the algorithm in a visual representation which gives further knowledge as to how this algorithm works. <br>This project was made using: <br>
 * Javascript
-* HTML/CSS
+* HTML
 * SCSS
 
 # Download
